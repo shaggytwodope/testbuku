@@ -1,0 +1,7 @@
+*.py[co]
+*.sw[po]
+.cache/
+.coverage
+buku.egg-info
+dist
+build
